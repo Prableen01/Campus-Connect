@@ -1,0 +1,21 @@
+# Node modules
+node_modules/
+
+# Vite build output
+dist/
+
+# Environment variable files
+.env
+.env.local
+.env.*.local
+
+# Logs
+logs/
+*.log
+
+# OS-specific files
+.DS_Store
+
+# Editor directories
+.idea/
+.vscode/
